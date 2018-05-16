@@ -63,6 +63,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "10871. X보다 작은 수",
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1546. 평균", "1546. 평균\1546. 평균.vcxproj", "{BC79EA8D-A31A-4E42-BB5E-0223D39AD478}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "4344. 평균은 넘겠지", "4344. 평균은 넘겠지\4344. 평균은 넘겠지.vcxproj", "{C281B5C8-AD64-4F7A-8124-5CA18FF224E3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -311,6 +313,14 @@ Global
 		{BC79EA8D-A31A-4E42-BB5E-0223D39AD478}.Release|x64.Build.0 = Release|x64
 		{BC79EA8D-A31A-4E42-BB5E-0223D39AD478}.Release|x86.ActiveCfg = Release|Win32
 		{BC79EA8D-A31A-4E42-BB5E-0223D39AD478}.Release|x86.Build.0 = Release|Win32
+		{C281B5C8-AD64-4F7A-8124-5CA18FF224E3}.Debug|x64.ActiveCfg = Debug|x64
+		{C281B5C8-AD64-4F7A-8124-5CA18FF224E3}.Debug|x64.Build.0 = Debug|x64
+		{C281B5C8-AD64-4F7A-8124-5CA18FF224E3}.Debug|x86.ActiveCfg = Debug|Win32
+		{C281B5C8-AD64-4F7A-8124-5CA18FF224E3}.Debug|x86.Build.0 = Debug|Win32
+		{C281B5C8-AD64-4F7A-8124-5CA18FF224E3}.Release|x64.ActiveCfg = Release|x64
+		{C281B5C8-AD64-4F7A-8124-5CA18FF224E3}.Release|x64.Build.0 = Release|x64
+		{C281B5C8-AD64-4F7A-8124-5CA18FF224E3}.Release|x86.ActiveCfg = Release|Win32
+		{C281B5C8-AD64-4F7A-8124-5CA18FF224E3}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
