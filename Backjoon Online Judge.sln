@@ -61,6 +61,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "10817. 세 수", "10817. �
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "10871. X보다 작은 수", "10871. X보다 작은 수\10871. X보다 작은 수.vcxproj", "{4C473AD3-D62C-477F-8B77-ABB5305CA604}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1546. 평균", "1546. 평균\1546. 평균.vcxproj", "{BC79EA8D-A31A-4E42-BB5E-0223D39AD478}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -301,6 +303,14 @@ Global
 		{4C473AD3-D62C-477F-8B77-ABB5305CA604}.Release|x64.Build.0 = Release|x64
 		{4C473AD3-D62C-477F-8B77-ABB5305CA604}.Release|x86.ActiveCfg = Release|Win32
 		{4C473AD3-D62C-477F-8B77-ABB5305CA604}.Release|x86.Build.0 = Release|Win32
+		{BC79EA8D-A31A-4E42-BB5E-0223D39AD478}.Debug|x64.ActiveCfg = Debug|x64
+		{BC79EA8D-A31A-4E42-BB5E-0223D39AD478}.Debug|x64.Build.0 = Debug|x64
+		{BC79EA8D-A31A-4E42-BB5E-0223D39AD478}.Debug|x86.ActiveCfg = Debug|Win32
+		{BC79EA8D-A31A-4E42-BB5E-0223D39AD478}.Debug|x86.Build.0 = Debug|Win32
+		{BC79EA8D-A31A-4E42-BB5E-0223D39AD478}.Release|x64.ActiveCfg = Release|x64
+		{BC79EA8D-A31A-4E42-BB5E-0223D39AD478}.Release|x64.Build.0 = Release|x64
+		{BC79EA8D-A31A-4E42-BB5E-0223D39AD478}.Release|x86.ActiveCfg = Release|Win32
+		{BC79EA8D-A31A-4E42-BB5E-0223D39AD478}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
