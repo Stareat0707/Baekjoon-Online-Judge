@@ -41,6 +41,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2438. 별찍기 - 1", "2438
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2439. 별찍기 - 2", "2439. 별찍기 - 2\2439. 별찍기 - 2.vcxproj", "{51C9FC7A-5A9A-4C08-8D61-270A1CF31490}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2440. 별찍기 - 3", "2440. 별찍기 - 3\2440. 별찍기 - 3.vcxproj", "{621C5EEC-9BAA-4E1C-827A-50BDA6B61F0B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -201,6 +203,14 @@ Global
 		{51C9FC7A-5A9A-4C08-8D61-270A1CF31490}.Release|x64.Build.0 = Release|x64
 		{51C9FC7A-5A9A-4C08-8D61-270A1CF31490}.Release|x86.ActiveCfg = Release|Win32
 		{51C9FC7A-5A9A-4C08-8D61-270A1CF31490}.Release|x86.Build.0 = Release|Win32
+		{621C5EEC-9BAA-4E1C-827A-50BDA6B61F0B}.Debug|x64.ActiveCfg = Debug|x64
+		{621C5EEC-9BAA-4E1C-827A-50BDA6B61F0B}.Debug|x64.Build.0 = Debug|x64
+		{621C5EEC-9BAA-4E1C-827A-50BDA6B61F0B}.Debug|x86.ActiveCfg = Debug|Win32
+		{621C5EEC-9BAA-4E1C-827A-50BDA6B61F0B}.Debug|x86.Build.0 = Debug|Win32
+		{621C5EEC-9BAA-4E1C-827A-50BDA6B61F0B}.Release|x64.ActiveCfg = Release|x64
+		{621C5EEC-9BAA-4E1C-827A-50BDA6B61F0B}.Release|x64.Build.0 = Release|x64
+		{621C5EEC-9BAA-4E1C-827A-50BDA6B61F0B}.Release|x86.ActiveCfg = Release|Win32
+		{621C5EEC-9BAA-4E1C-827A-50BDA6B61F0B}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
