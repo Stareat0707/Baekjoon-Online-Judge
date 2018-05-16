@@ -25,6 +25,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1008. A／B", "1008. A／B\
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "10869. 사칙연산", "10869. 사칙연산\10869. 사칙연산.vcxproj", "{C8992DA3-0DEE-40D7-8AE2-5F55901F3938}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "10430. 나머지", "10430. 나머지\10430. 나머지.vcxproj", "{328A475C-FDB9-4F92-8B34-3A3279204888}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -121,6 +123,14 @@ Global
 		{C8992DA3-0DEE-40D7-8AE2-5F55901F3938}.Release|x64.Build.0 = Release|x64
 		{C8992DA3-0DEE-40D7-8AE2-5F55901F3938}.Release|x86.ActiveCfg = Release|Win32
 		{C8992DA3-0DEE-40D7-8AE2-5F55901F3938}.Release|x86.Build.0 = Release|Win32
+		{328A475C-FDB9-4F92-8B34-3A3279204888}.Debug|x64.ActiveCfg = Debug|x64
+		{328A475C-FDB9-4F92-8B34-3A3279204888}.Debug|x64.Build.0 = Debug|x64
+		{328A475C-FDB9-4F92-8B34-3A3279204888}.Debug|x86.ActiveCfg = Debug|Win32
+		{328A475C-FDB9-4F92-8B34-3A3279204888}.Debug|x86.Build.0 = Debug|Win32
+		{328A475C-FDB9-4F92-8B34-3A3279204888}.Release|x64.ActiveCfg = Release|x64
+		{328A475C-FDB9-4F92-8B34-3A3279204888}.Release|x64.Build.0 = Release|x64
+		{328A475C-FDB9-4F92-8B34-3A3279204888}.Release|x86.ActiveCfg = Release|Win32
+		{328A475C-FDB9-4F92-8B34-3A3279204888}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
