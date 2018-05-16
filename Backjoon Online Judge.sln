@@ -15,6 +15,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "10172. 개", "10172. 개\10
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "10718. We love kriii", "10718. We love kriii\10718. We love kriii.vcxproj", "{6E382D08-4AE5-41FF-8C19-83AAF103B234}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "11718. 그대로 출력하기", "11718. 그대로 출력하기\11718. 그대로 출력하기.vcxproj", "{BD887C50-02C2-4505-9373-EA8F90396C8F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -71,6 +73,14 @@ Global
 		{6E382D08-4AE5-41FF-8C19-83AAF103B234}.Release|x64.Build.0 = Release|x64
 		{6E382D08-4AE5-41FF-8C19-83AAF103B234}.Release|x86.ActiveCfg = Release|Win32
 		{6E382D08-4AE5-41FF-8C19-83AAF103B234}.Release|x86.Build.0 = Release|Win32
+		{BD887C50-02C2-4505-9373-EA8F90396C8F}.Debug|x64.ActiveCfg = Debug|x64
+		{BD887C50-02C2-4505-9373-EA8F90396C8F}.Debug|x64.Build.0 = Debug|x64
+		{BD887C50-02C2-4505-9373-EA8F90396C8F}.Debug|x86.ActiveCfg = Debug|Win32
+		{BD887C50-02C2-4505-9373-EA8F90396C8F}.Debug|x86.Build.0 = Debug|Win32
+		{BD887C50-02C2-4505-9373-EA8F90396C8F}.Release|x64.ActiveCfg = Release|x64
+		{BD887C50-02C2-4505-9373-EA8F90396C8F}.Release|x64.Build.0 = Release|x64
+		{BD887C50-02C2-4505-9373-EA8F90396C8F}.Release|x86.ActiveCfg = Release|Win32
+		{BD887C50-02C2-4505-9373-EA8F90396C8F}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
