@@ -8,9 +8,12 @@ int main()
 	int cnt = 0;
 	for (int i = 1; i <= n; ++i)
 	{
-		while (true)
+		if (i < 100)
+			++cnt;
+		else if (i < 1000)
 		{
-
+			if (i / 100 % 10 - i / 10 % 10 == i / 10 % 10 - i % 10)
+				++cnt;
 		}
 	}
 
