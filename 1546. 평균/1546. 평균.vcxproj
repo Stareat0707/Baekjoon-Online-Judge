@@ -23,6 +23,7 @@
     <ProjectGuid>{BC79EA8D-A31A-4E42-BB5E-0223D39AD478}</ProjectGuid>
     <RootNamespace>My1546평균</RootNamespace>
     <WindowsTargetPlatformVersion>10.0.17134.0</WindowsTargetPlatformVersion>
+    <ProjectName>01546. 평균</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

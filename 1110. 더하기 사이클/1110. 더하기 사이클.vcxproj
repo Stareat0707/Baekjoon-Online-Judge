@@ -23,6 +23,7 @@
     <ProjectGuid>{D6A2F356-CB48-4B75-BF4A-B548F0056AB2}</ProjectGuid>
     <RootNamespace>My1110더하기사이클</RootNamespace>
     <WindowsTargetPlatformVersion>10.0.17134.0</WindowsTargetPlatformVersion>
+    <ProjectName>01110. 더하기 사이클</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

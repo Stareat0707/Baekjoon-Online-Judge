@@ -23,6 +23,7 @@
     <ProjectGuid>{996A98B9-11C5-4EB1-8D64-3E35EE4133C7}</ProjectGuid>
     <RootNamespace>My2742기찍N</RootNamespace>
     <WindowsTargetPlatformVersion>10.0.17134.0</WindowsTargetPlatformVersion>
+    <ProjectName>02742. 기찍 N</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

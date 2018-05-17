@@ -23,6 +23,7 @@
     <ProjectGuid>{2C7C6F31-874B-4950-A972-FF9FAC807E66}</ProjectGuid>
     <RootNamespace>My2438별찍기1</RootNamespace>
     <WindowsTargetPlatformVersion>10.0.17134.0</WindowsTargetPlatformVersion>
+    <ProjectName>02438. 별찍기 - 1</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

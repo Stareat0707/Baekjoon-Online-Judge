@@ -23,6 +23,7 @@
     <ProjectGuid>{1B8E8C1C-7A5C-4582-B32F-B02AC3D670C3}</ProjectGuid>
     <RootNamespace>My4673셀프넘버</RootNamespace>
     <WindowsTargetPlatformVersion>10.0.17134.0</WindowsTargetPlatformVersion>
+    <ProjectName>04673. 셀프 넘버</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

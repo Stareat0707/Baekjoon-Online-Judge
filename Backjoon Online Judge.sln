@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27703.2000
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2557. Hello World", "2557. Hello World\2557. Hello World.vcxproj", "{7F161108-B13D-4846-BAA3-80B5DC55DAA1}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "02557. Hello World", "2557. Hello World\2557. Hello World.vcxproj", "{7F161108-B13D-4846-BAA3-80B5DC55DAA1}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "10000.  A+B", "10000.  A+B\10000.  A+B.vcxproj", "{3FF124A8-0547-464D-9FE9-037BFE97478E}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "10001. A-B", "10001. A-B\10001. A-B.vcxproj", "{C3B50E94-308D-4BA0-B888-50BD4337D9FB}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "7287. 등록", "7287. 등록\7287. 등록.vcxproj", "{8664E4CC-63DA-4EB1-B5B3-B6D9687B627E}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "07287. 등록", "7287. 등록\7287. 등록.vcxproj", "{8664E4CC-63DA-4EB1-B5B3-B6D9687B627E}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "10172. 개", "10172. 개\10172. 개.vcxproj", "{7BA85702-CB21-4E3B-B9FA-BFE883734AA2}"
 EndProject
@@ -21,33 +21,33 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "11719. 그대로 출력하�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "10998. A×B", "10998. A×B\10998. A×B.vcxproj", "{77D6858C-DF8F-4DFB-9409-51BC6A0C82CD}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1008. A／B", "1008. A／B\1008. A／B.vcxproj", "{2DA0D986-63EA-4200-B5A0-61385EA49907}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "01008. A／B", "1008. A／B\1008. A／B.vcxproj", "{2DA0D986-63EA-4200-B5A0-61385EA49907}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "10869. 사칙연산", "10869. 사칙연산\10869. 사칙연산.vcxproj", "{C8992DA3-0DEE-40D7-8AE2-5F55901F3938}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "10430. 나머지", "10430. 나머지\10430. 나머지.vcxproj", "{328A475C-FDB9-4F92-8B34-3A3279204888}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2558. A+B - 2", "2558. A+B - 2\2558. A+B - 2.vcxproj", "{2D59F435-AFB9-48BF-ABC8-0ED211F88AFB}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "02558. A+B - 2", "2558. A+B - 2\2558. A+B - 2.vcxproj", "{2D59F435-AFB9-48BF-ABC8-0ED211F88AFB}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2839. 설탕 배달", "2839. 설탕 배달\2839. 설탕 배달.vcxproj", "{F0943920-1CEA-41AD-BDE4-48BCB73F8847}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "02839. 설탕 배달", "2839. 설탕 배달\2839. 설탕 배달.vcxproj", "{F0943920-1CEA-41AD-BDE4-48BCB73F8847}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2741. N 찍기", "2741. N 찍기\2741. N 찍기.vcxproj", "{B0459062-CD29-49C9-923F-A73A35B0D640}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "02741. N 찍기", "2741. N 찍기\2741. N 찍기.vcxproj", "{B0459062-CD29-49C9-923F-A73A35B0D640}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2742. 기찍 N", "2742. 기찍 N\2742. 기찍 N.vcxproj", "{996A98B9-11C5-4EB1-8D64-3E35EE4133C7}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "02742. 기찍 N", "2742. 기찍 N\2742. 기찍 N.vcxproj", "{996A98B9-11C5-4EB1-8D64-3E35EE4133C7}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2739. 구구단", "2739. 구구단\2739. 구구단.vcxproj", "{6ACEAC6F-E70A-4B52-A364-E6CCC4F511EE}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "02739. 구구단", "2739. 구구단\2739. 구구단.vcxproj", "{6ACEAC6F-E70A-4B52-A364-E6CCC4F511EE}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2438. 별찍기 - 1", "2438. 별찍기 - 1\2438. 별찍기 - 1.vcxproj", "{2C7C6F31-874B-4950-A972-FF9FAC807E66}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "02438. 별찍기 - 1", "2438. 별찍기 - 1\2438. 별찍기 - 1.vcxproj", "{2C7C6F31-874B-4950-A972-FF9FAC807E66}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2439. 별찍기 - 2", "2439. 별찍기 - 2\2439. 별찍기 - 2.vcxproj", "{51C9FC7A-5A9A-4C08-8D61-270A1CF31490}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "02439. 별찍기 - 2", "2439. 별찍기 - 2\2439. 별찍기 - 2.vcxproj", "{51C9FC7A-5A9A-4C08-8D61-270A1CF31490}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2440. 별찍기 - 3", "2440. 별찍기 - 3\2440. 별찍기 - 3.vcxproj", "{621C5EEC-9BAA-4E1C-827A-50BDA6B61F0B}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "02440. 별찍기 - 3", "2440. 별찍기 - 3\2440. 별찍기 - 3.vcxproj", "{621C5EEC-9BAA-4E1C-827A-50BDA6B61F0B}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2441. 별찍기 - 4", "2441. 별찍기 - 4\2441. 별찍기 - 4.vcxproj", "{0E860244-9C9B-4DBD-AEF1-3CE29196316A}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "02441. 별찍기 - 4", "2441. 별찍기 - 4\2441. 별찍기 - 4.vcxproj", "{0E860244-9C9B-4DBD-AEF1-3CE29196316A}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1924. 2007년", "1924. 2007년\1924. 2007년.vcxproj", "{65CD1327-EF1B-4D92-9818-CE616AE31436}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "01924. 2007년", "1924. 2007년\1924. 2007년.vcxproj", "{65CD1327-EF1B-4D92-9818-CE616AE31436}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "8393. 합", "8393. 합\8393. 합.vcxproj", "{5DC79E5F-C3D4-4862-AF22-CF8E944B8ACE}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "08393. 합", "8393. 합\8393. 합.vcxproj", "{5DC79E5F-C3D4-4862-AF22-CF8E944B8ACE}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "11720. 숫자의 합", "11720. 숫자의 합\11720. 숫자의 합.vcxproj", "{1AF17E78-67CE-4D9A-BCB1-4A59E4F960B0}"
 EndProject
@@ -55,19 +55,21 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "11721. 열 개씩 끊어 �
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "15552. 빠른 A+B", "15552. 빠른 A+B\15552. 빠른 A+B.vcxproj", "{A3B70475-A742-49D4-87D2-5C210BDF44E1}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "9498. 시험 성적", "9498. 시험 성적\9498. 시험 성적.vcxproj", "{258CC960-B12A-4CED-B7A2-42121BBC1607}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "09498. 시험 성적", "9498. 시험 성적\9498. 시험 성적.vcxproj", "{258CC960-B12A-4CED-B7A2-42121BBC1607}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "10817. 세 수", "10817. 세 수\10817. 세 수.vcxproj", "{DDF5CB74-EC95-45A0-A200-B818156E5783}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "10871. X보다 작은 수", "10871. X보다 작은 수\10871. X보다 작은 수.vcxproj", "{4C473AD3-D62C-477F-8B77-ABB5305CA604}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1546. 평균", "1546. 평균\1546. 평균.vcxproj", "{BC79EA8D-A31A-4E42-BB5E-0223D39AD478}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "01546. 평균", "1546. 평균\1546. 평균.vcxproj", "{BC79EA8D-A31A-4E42-BB5E-0223D39AD478}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "4344. 평균은 넘겠지", "4344. 평균은 넘겠지\4344. 평균은 넘겠지.vcxproj", "{C281B5C8-AD64-4F7A-8124-5CA18FF224E3}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "04344. 평균은 넘겠지", "4344. 평균은 넘겠지\4344. 평균은 넘겠지.vcxproj", "{C281B5C8-AD64-4F7A-8124-5CA18FF224E3}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1110. 더하기 사이클", "1110. 더하기 사이클\1110. 더하기 사이클.vcxproj", "{D6A2F356-CB48-4B75-BF4A-B548F0056AB2}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "01110. 더하기 사이클", "1110. 더하기 사이클\1110. 더하기 사이클.vcxproj", "{D6A2F356-CB48-4B75-BF4A-B548F0056AB2}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "4673. 셀프 넘버", "4673. 셀프 넘버\4673. 셀프 넘버.vcxproj", "{1B8E8C1C-7A5C-4582-B32F-B02AC3D670C3}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "04673. 셀프 넘버", "4673. 셀프 넘버\4673. 셀프 넘버.vcxproj", "{1B8E8C1C-7A5C-4582-B32F-B02AC3D670C3}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "01065. 한수", "1065. 한수\1065. 한수.vcxproj", "{E59C96BD-3824-457E-8239-F3DD0D9FF938}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -341,6 +343,14 @@ Global
 		{1B8E8C1C-7A5C-4582-B32F-B02AC3D670C3}.Release|x64.Build.0 = Release|x64
 		{1B8E8C1C-7A5C-4582-B32F-B02AC3D670C3}.Release|x86.ActiveCfg = Release|Win32
 		{1B8E8C1C-7A5C-4582-B32F-B02AC3D670C3}.Release|x86.Build.0 = Release|Win32
+		{E59C96BD-3824-457E-8239-F3DD0D9FF938}.Debug|x64.ActiveCfg = Debug|x64
+		{E59C96BD-3824-457E-8239-F3DD0D9FF938}.Debug|x64.Build.0 = Debug|x64
+		{E59C96BD-3824-457E-8239-F3DD0D9FF938}.Debug|x86.ActiveCfg = Debug|Win32
+		{E59C96BD-3824-457E-8239-F3DD0D9FF938}.Debug|x86.Build.0 = Debug|Win32
+		{E59C96BD-3824-457E-8239-F3DD0D9FF938}.Release|x64.ActiveCfg = Release|x64
+		{E59C96BD-3824-457E-8239-F3DD0D9FF938}.Release|x64.Build.0 = Release|x64
+		{E59C96BD-3824-457E-8239-F3DD0D9FF938}.Release|x86.ActiveCfg = Release|Win32
+		{E59C96BD-3824-457E-8239-F3DD0D9FF938}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

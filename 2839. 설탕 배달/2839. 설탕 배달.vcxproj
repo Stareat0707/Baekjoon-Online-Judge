@@ -23,6 +23,7 @@
     <ProjectGuid>{F0943920-1CEA-41AD-BDE4-48BCB73F8847}</ProjectGuid>
     <RootNamespace>My2839설탕배달</RootNamespace>
     <WindowsTargetPlatformVersion>10.0.17134.0</WindowsTargetPlatformVersion>
+    <ProjectName>02839. 설탕 배달</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
