@@ -67,6 +67,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "4344. 평균은 넘겠지",
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1110. 더하기 사이클", "1110. 더하기 사이클\1110. 더하기 사이클.vcxproj", "{D6A2F356-CB48-4B75-BF4A-B548F0056AB2}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "4673. 셀프 넘버", "4673. 셀프 넘버\4673. 셀프 넘버.vcxproj", "{1B8E8C1C-7A5C-4582-B32F-B02AC3D670C3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -331,6 +333,14 @@ Global
 		{D6A2F356-CB48-4B75-BF4A-B548F0056AB2}.Release|x64.Build.0 = Release|x64
 		{D6A2F356-CB48-4B75-BF4A-B548F0056AB2}.Release|x86.ActiveCfg = Release|Win32
 		{D6A2F356-CB48-4B75-BF4A-B548F0056AB2}.Release|x86.Build.0 = Release|Win32
+		{1B8E8C1C-7A5C-4582-B32F-B02AC3D670C3}.Debug|x64.ActiveCfg = Debug|x64
+		{1B8E8C1C-7A5C-4582-B32F-B02AC3D670C3}.Debug|x64.Build.0 = Debug|x64
+		{1B8E8C1C-7A5C-4582-B32F-B02AC3D670C3}.Debug|x86.ActiveCfg = Debug|Win32
+		{1B8E8C1C-7A5C-4582-B32F-B02AC3D670C3}.Debug|x86.Build.0 = Debug|Win32
+		{1B8E8C1C-7A5C-4582-B32F-B02AC3D670C3}.Release|x64.ActiveCfg = Release|x64
+		{1B8E8C1C-7A5C-4582-B32F-B02AC3D670C3}.Release|x64.Build.0 = Release|x64
+		{1B8E8C1C-7A5C-4582-B32F-B02AC3D670C3}.Release|x86.ActiveCfg = Release|Win32
+		{1B8E8C1C-7A5C-4582-B32F-B02AC3D670C3}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
