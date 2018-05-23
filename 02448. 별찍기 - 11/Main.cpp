@@ -1,31 +1,5 @@
 #include <iostream>
-/*
-24
-					   *
-					  * *
-					 *****
-					*     *
-				   * *   * *
-				  ***** *****
-				 *           *
-				* *         * *
-			   *****       *****
-			  *     *     *     *
-			 * *   * *   * *   * *
-			***** ***** ***** *****
-		   *                       *
-		  * *                     * *
-		 *****                   *****
-		*     *                 *     *
-	   * *   * *               * *   * *
-	  ***** *****             ***** *****
-	 *           *           *           *
-	* *         * *         * *         * *
-   *****       *****       *****       *****
-  *     *     *     *     *     *     *     *
- * *   * *   * *   * *   * *   * *   * *   * *
-***** ***** ***** ***** ***** ***** ***** *****
-*/
+#include <vector>
 
 void printStar(int row)
 {
@@ -47,18 +21,40 @@ int main()
 	int n;
 	std::cin >> n;
 
+	std::vector<bool> prev;
+
 	for (int i = 0; i < n; ++i)
 	{
 		for (int j = 0; j < n - 3 * (i / 3 + 1); ++j)
 			std::cout << ' ';
 
-		std::cout << i / 3 + 1;
+		std::vector<bool> now;
 		for (int j = 0; j < i / 3 + 1; ++j)
 		{
-			printStar(i);
+			if (j == 0 || j == i / 3)
+			{
+				printStar(i);
+				now.push_back(true);
+			}
+			else if (prev[j - 1] ^ prev[j])
+			{
+				printStar(i);
+				now.push_back(true);
+			}
+			else
+			{
+				std::cout << "     ";
+				now.push_back(false);
+			}
+
 			std::cout << ' ';
 		}
 
+		for (int j = 0; j < n - 3 * (i / 3 + 1); ++j)
+			std::cout << ' ';
+
+		if (i % 3 == 2)
+			prev = now;
 		std::cout << std::endl;
 	}
 	return 0;
