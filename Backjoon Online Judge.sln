@@ -75,6 +75,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "01065. 한수", "01065. 한
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "01152. 단어의 개수", "01152. 단어의 개수\01152. 단어의 개수.vcxproj", "{4C96C5BA-8382-4A2B-8FE6-84A26384189C}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "02577. 숫자의 개수", "02577. 숫자의 개수\02577. 숫자의 개수.vcxproj", "{2FDE0945-4A53-4D12-B739-0EDF38912ABA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -371,6 +373,14 @@ Global
 		{4C96C5BA-8382-4A2B-8FE6-84A26384189C}.Release|x64.Build.0 = Release|x64
 		{4C96C5BA-8382-4A2B-8FE6-84A26384189C}.Release|x86.ActiveCfg = Release|Win32
 		{4C96C5BA-8382-4A2B-8FE6-84A26384189C}.Release|x86.Build.0 = Release|Win32
+		{2FDE0945-4A53-4D12-B739-0EDF38912ABA}.Debug|x64.ActiveCfg = Debug|x64
+		{2FDE0945-4A53-4D12-B739-0EDF38912ABA}.Debug|x64.Build.0 = Debug|x64
+		{2FDE0945-4A53-4D12-B739-0EDF38912ABA}.Debug|x86.ActiveCfg = Debug|Win32
+		{2FDE0945-4A53-4D12-B739-0EDF38912ABA}.Debug|x86.Build.0 = Debug|Win32
+		{2FDE0945-4A53-4D12-B739-0EDF38912ABA}.Release|x64.ActiveCfg = Release|x64
+		{2FDE0945-4A53-4D12-B739-0EDF38912ABA}.Release|x64.Build.0 = Release|x64
+		{2FDE0945-4A53-4D12-B739-0EDF38912ABA}.Release|x86.ActiveCfg = Release|Win32
+		{2FDE0945-4A53-4D12-B739-0EDF38912ABA}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
