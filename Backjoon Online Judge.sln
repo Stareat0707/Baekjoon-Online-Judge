@@ -85,6 +85,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "10039. 평균 점수", "100
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "11654. 아스키 코드", "11654. 아스키 코드\11654. 아스키 코드.vcxproj", "{EDE06588-A97E-4B69-BF98-70BF441A0B46}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "10809. 알파벳 찾기", "10809. 알파벳 찾기\10809. 알파벳 찾기.vcxproj", "{121A0F7F-FFB7-4DF9-8B48-B7789D13A221}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -421,6 +423,14 @@ Global
 		{EDE06588-A97E-4B69-BF98-70BF441A0B46}.Release|x64.Build.0 = Release|x64
 		{EDE06588-A97E-4B69-BF98-70BF441A0B46}.Release|x86.ActiveCfg = Release|Win32
 		{EDE06588-A97E-4B69-BF98-70BF441A0B46}.Release|x86.Build.0 = Release|Win32
+		{121A0F7F-FFB7-4DF9-8B48-B7789D13A221}.Debug|x64.ActiveCfg = Debug|x64
+		{121A0F7F-FFB7-4DF9-8B48-B7789D13A221}.Debug|x64.Build.0 = Debug|x64
+		{121A0F7F-FFB7-4DF9-8B48-B7789D13A221}.Debug|x86.ActiveCfg = Debug|Win32
+		{121A0F7F-FFB7-4DF9-8B48-B7789D13A221}.Debug|x86.Build.0 = Debug|Win32
+		{121A0F7F-FFB7-4DF9-8B48-B7789D13A221}.Release|x64.ActiveCfg = Release|x64
+		{121A0F7F-FFB7-4DF9-8B48-B7789D13A221}.Release|x64.Build.0 = Release|x64
+		{121A0F7F-FFB7-4DF9-8B48-B7789D13A221}.Release|x86.ActiveCfg = Release|Win32
+		{121A0F7F-FFB7-4DF9-8B48-B7789D13A221}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
