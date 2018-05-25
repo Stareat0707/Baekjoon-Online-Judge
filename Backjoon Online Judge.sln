@@ -91,6 +91,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "02675. 문자열 반복", "
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "01157. 단어 공부", "01157. 단어 공부\01157. 단어 공부.vcxproj", "{A73001EE-075C-4B66-B5E7-E03A53CAE783}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "01316. 그룹 단어 체커", "01316. 그룹 단어 체커\01316. 그룹 단어 체커.vcxproj", "{ECF00BF6-0920-42FC-94A5-517AFF73799E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -451,6 +453,14 @@ Global
 		{A73001EE-075C-4B66-B5E7-E03A53CAE783}.Release|x64.Build.0 = Release|x64
 		{A73001EE-075C-4B66-B5E7-E03A53CAE783}.Release|x86.ActiveCfg = Release|Win32
 		{A73001EE-075C-4B66-B5E7-E03A53CAE783}.Release|x86.Build.0 = Release|Win32
+		{ECF00BF6-0920-42FC-94A5-517AFF73799E}.Debug|x64.ActiveCfg = Debug|x64
+		{ECF00BF6-0920-42FC-94A5-517AFF73799E}.Debug|x64.Build.0 = Debug|x64
+		{ECF00BF6-0920-42FC-94A5-517AFF73799E}.Debug|x86.ActiveCfg = Debug|Win32
+		{ECF00BF6-0920-42FC-94A5-517AFF73799E}.Debug|x86.Build.0 = Debug|Win32
+		{ECF00BF6-0920-42FC-94A5-517AFF73799E}.Release|x64.ActiveCfg = Release|x64
+		{ECF00BF6-0920-42FC-94A5-517AFF73799E}.Release|x64.Build.0 = Release|x64
+		{ECF00BF6-0920-42FC-94A5-517AFF73799E}.Release|x86.ActiveCfg = Release|Win32
+		{ECF00BF6-0920-42FC-94A5-517AFF73799E}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
