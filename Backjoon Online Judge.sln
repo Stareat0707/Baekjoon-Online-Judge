@@ -109,6 +109,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "10250. ACM 호텔", "10250.
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "02775. 부녀회장이 될테야", "02775. 부녀회장이 될테야\02775. 부녀회장이 될테야.vcxproj", "{850D7E79-BBCB-4040-AE53-68D7D2CF3397}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "01475. 방 번호", "01475. 방 번호\01475. 방 번호.vcxproj", "{47BCAF73-AD39-4D98-AB90-76F11B3867EA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -541,6 +543,14 @@ Global
 		{850D7E79-BBCB-4040-AE53-68D7D2CF3397}.Release|x64.Build.0 = Release|x64
 		{850D7E79-BBCB-4040-AE53-68D7D2CF3397}.Release|x86.ActiveCfg = Release|Win32
 		{850D7E79-BBCB-4040-AE53-68D7D2CF3397}.Release|x86.Build.0 = Release|Win32
+		{47BCAF73-AD39-4D98-AB90-76F11B3867EA}.Debug|x64.ActiveCfg = Debug|x64
+		{47BCAF73-AD39-4D98-AB90-76F11B3867EA}.Debug|x64.Build.0 = Debug|x64
+		{47BCAF73-AD39-4D98-AB90-76F11B3867EA}.Debug|x86.ActiveCfg = Debug|Win32
+		{47BCAF73-AD39-4D98-AB90-76F11B3867EA}.Debug|x86.Build.0 = Debug|Win32
+		{47BCAF73-AD39-4D98-AB90-76F11B3867EA}.Release|x64.ActiveCfg = Release|x64
+		{47BCAF73-AD39-4D98-AB90-76F11B3867EA}.Release|x64.Build.0 = Release|x64
+		{47BCAF73-AD39-4D98-AB90-76F11B3867EA}.Release|x86.ActiveCfg = Release|Win32
+		{47BCAF73-AD39-4D98-AB90-76F11B3867EA}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
