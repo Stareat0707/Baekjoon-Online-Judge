@@ -113,6 +113,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "01475. 방 번호", "01475.
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "06064. 카잉 달력", "06064. 카잉 달력\06064. 카잉 달력.vcxproj", "{0A1422C7-90C9-4290-8E3A-01EDADADB621}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "02750. 수 정렬하기", "02750. 수 정렬하기\02750. 수 정렬하기.vcxproj", "{088A2540-ED5D-4235-8164-3D62F8D89486}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -561,6 +563,14 @@ Global
 		{0A1422C7-90C9-4290-8E3A-01EDADADB621}.Release|x64.Build.0 = Release|x64
 		{0A1422C7-90C9-4290-8E3A-01EDADADB621}.Release|x86.ActiveCfg = Release|Win32
 		{0A1422C7-90C9-4290-8E3A-01EDADADB621}.Release|x86.Build.0 = Release|Win32
+		{088A2540-ED5D-4235-8164-3D62F8D89486}.Debug|x64.ActiveCfg = Debug|x64
+		{088A2540-ED5D-4235-8164-3D62F8D89486}.Debug|x64.Build.0 = Debug|x64
+		{088A2540-ED5D-4235-8164-3D62F8D89486}.Debug|x86.ActiveCfg = Debug|Win32
+		{088A2540-ED5D-4235-8164-3D62F8D89486}.Debug|x86.Build.0 = Debug|Win32
+		{088A2540-ED5D-4235-8164-3D62F8D89486}.Release|x64.ActiveCfg = Release|x64
+		{088A2540-ED5D-4235-8164-3D62F8D89486}.Release|x64.Build.0 = Release|x64
+		{088A2540-ED5D-4235-8164-3D62F8D89486}.Release|x86.ActiveCfg = Release|Win32
+		{088A2540-ED5D-4235-8164-3D62F8D89486}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
