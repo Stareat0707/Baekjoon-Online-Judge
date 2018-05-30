@@ -123,6 +123,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "02108. 통계학", "02108. 
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "01427. 소트인사이드", "01427. 소트인사이드\01427. 소트인사이드.vcxproj", "{B0E638C0-9FAA-4578-B997-B81A5ACA470E}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "01181. 단어 정렬", "01181. 단어 정렬\01181. 단어 정렬.vcxproj", "{7C1F554A-4FE6-45D5-B58A-327C23D924AB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -611,6 +613,14 @@ Global
 		{B0E638C0-9FAA-4578-B997-B81A5ACA470E}.Release|x64.Build.0 = Release|x64
 		{B0E638C0-9FAA-4578-B997-B81A5ACA470E}.Release|x86.ActiveCfg = Release|Win32
 		{B0E638C0-9FAA-4578-B997-B81A5ACA470E}.Release|x86.Build.0 = Release|Win32
+		{7C1F554A-4FE6-45D5-B58A-327C23D924AB}.Debug|x64.ActiveCfg = Debug|x64
+		{7C1F554A-4FE6-45D5-B58A-327C23D924AB}.Debug|x64.Build.0 = Debug|x64
+		{7C1F554A-4FE6-45D5-B58A-327C23D924AB}.Debug|x86.ActiveCfg = Debug|Win32
+		{7C1F554A-4FE6-45D5-B58A-327C23D924AB}.Debug|x86.Build.0 = Debug|Win32
+		{7C1F554A-4FE6-45D5-B58A-327C23D924AB}.Release|x64.ActiveCfg = Release|x64
+		{7C1F554A-4FE6-45D5-B58A-327C23D924AB}.Release|x64.Build.0 = Release|x64
+		{7C1F554A-4FE6-45D5-B58A-327C23D924AB}.Release|x86.ActiveCfg = Release|Win32
+		{7C1F554A-4FE6-45D5-B58A-327C23D924AB}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
