@@ -121,6 +121,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "10989. 수 정렬하기 3",
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "02108. 통계학", "02108. 통계학\02108. 통계학.vcxproj", "{BF173A68-F359-409C-806C-4F20B3947772}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "01427. 소트인사이드", "01427. 소트인사이드\01427. 소트인사이드.vcxproj", "{B0E638C0-9FAA-4578-B997-B81A5ACA470E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -601,6 +603,14 @@ Global
 		{BF173A68-F359-409C-806C-4F20B3947772}.Release|x64.Build.0 = Release|x64
 		{BF173A68-F359-409C-806C-4F20B3947772}.Release|x86.ActiveCfg = Release|Win32
 		{BF173A68-F359-409C-806C-4F20B3947772}.Release|x86.Build.0 = Release|Win32
+		{B0E638C0-9FAA-4578-B997-B81A5ACA470E}.Debug|x64.ActiveCfg = Debug|x64
+		{B0E638C0-9FAA-4578-B997-B81A5ACA470E}.Debug|x64.Build.0 = Debug|x64
+		{B0E638C0-9FAA-4578-B997-B81A5ACA470E}.Debug|x86.ActiveCfg = Debug|Win32
+		{B0E638C0-9FAA-4578-B997-B81A5ACA470E}.Debug|x86.Build.0 = Debug|Win32
+		{B0E638C0-9FAA-4578-B997-B81A5ACA470E}.Release|x64.ActiveCfg = Release|x64
+		{B0E638C0-9FAA-4578-B997-B81A5ACA470E}.Release|x64.Build.0 = Release|x64
+		{B0E638C0-9FAA-4578-B997-B81A5ACA470E}.Release|x86.ActiveCfg = Release|Win32
+		{B0E638C0-9FAA-4578-B997-B81A5ACA470E}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
