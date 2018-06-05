@@ -139,6 +139,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "10828. 스택", "10828. 스
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "01874. 스택 수열", "01874. 스택 수열\01874. 스택 수열.vcxproj", "{DC8167B9-0443-4CD6-B8D0-C2F57C3C81E9}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "09012. 괄호", "09012. 괄호\09012. 괄호.vcxproj", "{6D4C478C-697D-4382-A95F-350651081ED3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -691,6 +693,14 @@ Global
 		{DC8167B9-0443-4CD6-B8D0-C2F57C3C81E9}.Release|x64.Build.0 = Release|x64
 		{DC8167B9-0443-4CD6-B8D0-C2F57C3C81E9}.Release|x86.ActiveCfg = Release|Win32
 		{DC8167B9-0443-4CD6-B8D0-C2F57C3C81E9}.Release|x86.Build.0 = Release|Win32
+		{6D4C478C-697D-4382-A95F-350651081ED3}.Debug|x64.ActiveCfg = Debug|x64
+		{6D4C478C-697D-4382-A95F-350651081ED3}.Debug|x64.Build.0 = Debug|x64
+		{6D4C478C-697D-4382-A95F-350651081ED3}.Debug|x86.ActiveCfg = Debug|Win32
+		{6D4C478C-697D-4382-A95F-350651081ED3}.Debug|x86.Build.0 = Debug|Win32
+		{6D4C478C-697D-4382-A95F-350651081ED3}.Release|x64.ActiveCfg = Release|x64
+		{6D4C478C-697D-4382-A95F-350651081ED3}.Release|x64.Build.0 = Release|x64
+		{6D4C478C-697D-4382-A95F-350651081ED3}.Release|x86.ActiveCfg = Release|Win32
+		{6D4C478C-697D-4382-A95F-350651081ED3}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
