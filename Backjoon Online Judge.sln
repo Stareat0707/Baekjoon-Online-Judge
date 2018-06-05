@@ -141,6 +141,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "01874. 스택 수열", "018
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "09012. 괄호", "09012. 괄호\09012. 괄호.vcxproj", "{6D4C478C-697D-4382-A95F-350651081ED3}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "02504. 괄호의 값", "02504. 괄호의 값\02504. 괄호의 값.vcxproj", "{640A4EE6-1968-4C25-A6EA-701300FDB891}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -701,6 +703,14 @@ Global
 		{6D4C478C-697D-4382-A95F-350651081ED3}.Release|x64.Build.0 = Release|x64
 		{6D4C478C-697D-4382-A95F-350651081ED3}.Release|x86.ActiveCfg = Release|Win32
 		{6D4C478C-697D-4382-A95F-350651081ED3}.Release|x86.Build.0 = Release|Win32
+		{640A4EE6-1968-4C25-A6EA-701300FDB891}.Debug|x64.ActiveCfg = Debug|x64
+		{640A4EE6-1968-4C25-A6EA-701300FDB891}.Debug|x64.Build.0 = Debug|x64
+		{640A4EE6-1968-4C25-A6EA-701300FDB891}.Debug|x86.ActiveCfg = Debug|Win32
+		{640A4EE6-1968-4C25-A6EA-701300FDB891}.Debug|x86.Build.0 = Debug|Win32
+		{640A4EE6-1968-4C25-A6EA-701300FDB891}.Release|x64.ActiveCfg = Release|x64
+		{640A4EE6-1968-4C25-A6EA-701300FDB891}.Release|x64.Build.0 = Release|x64
+		{640A4EE6-1968-4C25-A6EA-701300FDB891}.Release|x86.ActiveCfg = Release|Win32
+		{640A4EE6-1968-4C25-A6EA-701300FDB891}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
