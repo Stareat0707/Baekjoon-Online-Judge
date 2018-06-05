@@ -133,6 +133,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "01929. 소수 구하기", "
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "04948. 베르트랑 공준", "04948. 베르트랑 공준\04948. 베르트랑 공준.vcxproj", "{7CBCA587-2B2A-4222-A7E6-CF538D159285}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "09020. 골드바흐의 추측", "09020. 골드바흐의 추측\09020. 골드바흐의 추측.vcxproj", "{84D5F34A-D217-4E72-86FE-D099F6688784}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -661,6 +663,14 @@ Global
 		{7CBCA587-2B2A-4222-A7E6-CF538D159285}.Release|x64.Build.0 = Release|x64
 		{7CBCA587-2B2A-4222-A7E6-CF538D159285}.Release|x86.ActiveCfg = Release|Win32
 		{7CBCA587-2B2A-4222-A7E6-CF538D159285}.Release|x86.Build.0 = Release|Win32
+		{84D5F34A-D217-4E72-86FE-D099F6688784}.Debug|x64.ActiveCfg = Debug|x64
+		{84D5F34A-D217-4E72-86FE-D099F6688784}.Debug|x64.Build.0 = Debug|x64
+		{84D5F34A-D217-4E72-86FE-D099F6688784}.Debug|x86.ActiveCfg = Debug|Win32
+		{84D5F34A-D217-4E72-86FE-D099F6688784}.Debug|x86.Build.0 = Debug|Win32
+		{84D5F34A-D217-4E72-86FE-D099F6688784}.Release|x64.ActiveCfg = Release|x64
+		{84D5F34A-D217-4E72-86FE-D099F6688784}.Release|x64.Build.0 = Release|x64
+		{84D5F34A-D217-4E72-86FE-D099F6688784}.Release|x86.ActiveCfg = Release|Win32
+		{84D5F34A-D217-4E72-86FE-D099F6688784}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
