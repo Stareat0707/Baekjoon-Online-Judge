@@ -149,6 +149,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "01260. DFS와 BFS", "01260.
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "01966. 프린터 큐", "01966. 프린터 큐\01966. 프린터 큐.vcxproj", "{F325870F-37B0-4F07-BF05-A8E93AE5F23F}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "11866. 조세퍼스 문제 0", "11866. 조세퍼스 문제 0\11866. 조세퍼스 문제 0.vcxproj", "{84D4D540-920C-4DD8-9BEA-81512509391B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -741,6 +743,14 @@ Global
 		{F325870F-37B0-4F07-BF05-A8E93AE5F23F}.Release|x64.Build.0 = Release|x64
 		{F325870F-37B0-4F07-BF05-A8E93AE5F23F}.Release|x86.ActiveCfg = Release|Win32
 		{F325870F-37B0-4F07-BF05-A8E93AE5F23F}.Release|x86.Build.0 = Release|Win32
+		{84D4D540-920C-4DD8-9BEA-81512509391B}.Debug|x64.ActiveCfg = Debug|x64
+		{84D4D540-920C-4DD8-9BEA-81512509391B}.Debug|x64.Build.0 = Debug|x64
+		{84D4D540-920C-4DD8-9BEA-81512509391B}.Debug|x86.ActiveCfg = Debug|Win32
+		{84D4D540-920C-4DD8-9BEA-81512509391B}.Debug|x86.Build.0 = Debug|Win32
+		{84D4D540-920C-4DD8-9BEA-81512509391B}.Release|x64.ActiveCfg = Release|x64
+		{84D4D540-920C-4DD8-9BEA-81512509391B}.Release|x64.Build.0 = Release|x64
+		{84D4D540-920C-4DD8-9BEA-81512509391B}.Release|x86.ActiveCfg = Release|Win32
+		{84D4D540-920C-4DD8-9BEA-81512509391B}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
