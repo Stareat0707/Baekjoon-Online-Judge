@@ -157,6 +157,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "10866. 덱", "10866. 덱\10
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "01021. 회전하는 큐", "01021. 회전하는 큐\01021. 회전하는 큐.vcxproj", "{ECB6FA51-DE6C-4924-867B-7F44D27D871E}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "05430. AC", "05430. AC\05430. AC.vcxproj", "{3E3A98C6-6076-43E0-9B9C-F3A019B34107}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -781,6 +783,14 @@ Global
 		{ECB6FA51-DE6C-4924-867B-7F44D27D871E}.Release|x64.Build.0 = Release|x64
 		{ECB6FA51-DE6C-4924-867B-7F44D27D871E}.Release|x86.ActiveCfg = Release|Win32
 		{ECB6FA51-DE6C-4924-867B-7F44D27D871E}.Release|x86.Build.0 = Release|Win32
+		{3E3A98C6-6076-43E0-9B9C-F3A019B34107}.Debug|x64.ActiveCfg = Debug|x64
+		{3E3A98C6-6076-43E0-9B9C-F3A019B34107}.Debug|x64.Build.0 = Debug|x64
+		{3E3A98C6-6076-43E0-9B9C-F3A019B34107}.Debug|x86.ActiveCfg = Debug|Win32
+		{3E3A98C6-6076-43E0-9B9C-F3A019B34107}.Debug|x86.Build.0 = Debug|Win32
+		{3E3A98C6-6076-43E0-9B9C-F3A019B34107}.Release|x64.ActiveCfg = Release|x64
+		{3E3A98C6-6076-43E0-9B9C-F3A019B34107}.Release|x64.Build.0 = Release|x64
+		{3E3A98C6-6076-43E0-9B9C-F3A019B34107}.Release|x86.ActiveCfg = Release|Win32
+		{3E3A98C6-6076-43E0-9B9C-F3A019B34107}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
