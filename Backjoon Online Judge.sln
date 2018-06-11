@@ -173,6 +173,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "11051. 이항 계수 2", "1
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "11401. 이항 계수 3", "11401. 이항 계수 3\11401. 이항 계수 3.vcxproj", "{780A0FA1-4C78-4AB6-8166-938214A6A982}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "10872. 팩토리얼", "10872. 팩토리얼\10872. 팩토리얼.vcxproj", "{DC535DB9-C67B-4690-AE7F-E843B071E8D2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -861,6 +863,14 @@ Global
 		{780A0FA1-4C78-4AB6-8166-938214A6A982}.Release|x64.Build.0 = Release|x64
 		{780A0FA1-4C78-4AB6-8166-938214A6A982}.Release|x86.ActiveCfg = Release|Win32
 		{780A0FA1-4C78-4AB6-8166-938214A6A982}.Release|x86.Build.0 = Release|Win32
+		{DC535DB9-C67B-4690-AE7F-E843B071E8D2}.Debug|x64.ActiveCfg = Debug|x64
+		{DC535DB9-C67B-4690-AE7F-E843B071E8D2}.Debug|x64.Build.0 = Debug|x64
+		{DC535DB9-C67B-4690-AE7F-E843B071E8D2}.Debug|x86.ActiveCfg = Debug|Win32
+		{DC535DB9-C67B-4690-AE7F-E843B071E8D2}.Debug|x86.Build.0 = Debug|Win32
+		{DC535DB9-C67B-4690-AE7F-E843B071E8D2}.Release|x64.ActiveCfg = Release|x64
+		{DC535DB9-C67B-4690-AE7F-E843B071E8D2}.Release|x64.Build.0 = Release|x64
+		{DC535DB9-C67B-4690-AE7F-E843B071E8D2}.Release|x86.ActiveCfg = Release|Win32
+		{DC535DB9-C67B-4690-AE7F-E843B071E8D2}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
