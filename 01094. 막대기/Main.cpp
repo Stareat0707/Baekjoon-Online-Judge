@@ -3,10 +3,8 @@
 
 int main()
 {
-	std::random_device rd;
-	std::mt19937 gen(rd());
-	int x = gen() % 64 + 1;
-	std::cout << x << std::endl;
+	int x;
+	std::cin >> x;
 
 	int num = 1;
 	int count = 0;
