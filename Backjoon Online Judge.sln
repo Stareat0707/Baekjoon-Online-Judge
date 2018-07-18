@@ -179,6 +179,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "01676. 팩토리얼 0의 �
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "02407. 조합", "02407. 조합\02407. 조합.vcxproj", "{41D19406-B6B3-4177-A5F9-44C2556E33F7}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "01094. 막대기", "01094. 막대기\01094. 막대기.vcxproj", "{73504801-27B4-4787-9ED4-B455315B00BB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -891,6 +893,14 @@ Global
 		{41D19406-B6B3-4177-A5F9-44C2556E33F7}.Release|x64.Build.0 = Release|x64
 		{41D19406-B6B3-4177-A5F9-44C2556E33F7}.Release|x86.ActiveCfg = Release|Win32
 		{41D19406-B6B3-4177-A5F9-44C2556E33F7}.Release|x86.Build.0 = Release|Win32
+		{73504801-27B4-4787-9ED4-B455315B00BB}.Debug|x64.ActiveCfg = Debug|x64
+		{73504801-27B4-4787-9ED4-B455315B00BB}.Debug|x64.Build.0 = Debug|x64
+		{73504801-27B4-4787-9ED4-B455315B00BB}.Debug|x86.ActiveCfg = Debug|Win32
+		{73504801-27B4-4787-9ED4-B455315B00BB}.Debug|x86.Build.0 = Debug|Win32
+		{73504801-27B4-4787-9ED4-B455315B00BB}.Release|x64.ActiveCfg = Release|x64
+		{73504801-27B4-4787-9ED4-B455315B00BB}.Release|x64.Build.0 = Release|x64
+		{73504801-27B4-4787-9ED4-B455315B00BB}.Release|x86.ActiveCfg = Release|Win32
+		{73504801-27B4-4787-9ED4-B455315B00BB}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
