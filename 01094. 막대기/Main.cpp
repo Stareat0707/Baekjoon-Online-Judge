@@ -6,7 +6,6 @@ int main()
 	int x;
 	std::cin >> x;
 
-	int num = 1;
 	int count = 0;
 	while (x > 0)
 	{
